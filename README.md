@@ -1,7 +1,7 @@
 # K-Means-Clusterin-Facility-Problem
 K-Means clustering using Sequential and Parallel methods.
 ## Note
-The more prcise and complet report of impleming and development of the project is in the file
+The more prcise and complet report of impleming and development of the project is in the file K-means-report.
 
 # Abstract
 In this report, the solution of facility location problem using K-means clustering approach
