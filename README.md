@@ -1,4 +1,4 @@
-# K-Means-Clustering-Facility-Problem
+# K-Means-Clustering-Facility-Location-Problem
 K-Means clustering using Sequential and Parallel methods.
 ## Note
 The more prcise and complet report of impleming and development of the project is in the file K-means-report.
