@@ -36,7 +36,7 @@ The code contains a K-means class that provide the calculation of clustering. Ev
 this class keeps the state of the data and clusters information. This class has a public function
 that is named run(). This function returns a KMeansReport object that contains cycle counts
 and running time and follows the algorithm:
-### Algoritm
+### Algorithm
 ![Screenshot 2022-07-09 190556](https://user-images.githubusercontent.com/58035198/178115817-7cf1e4a9-f1de-4725-ad65-a9dd1e2352b7.png)
 
 # Results
